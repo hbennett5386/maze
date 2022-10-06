@@ -1,8 +1,4 @@
 /*******************************************************************************************
-* Hank Bennett                                                                             *
-* CSCI 3110-001                                                                            *
-* Project #3                                                                               *
-* Due: 6/19/2022                                                                           *
 * This program will read a file of which the first line will set the size of a maze.       *
 * The rest of the file will determine what does in that maze. The maze will be built with  *
 * the character 'X' signifying a wall, 'O' signifying a space that can be explored, '*'    *
